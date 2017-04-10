@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwatTheBugs16", "SwatTheBugs16\SwatTheBugs16.vcxproj", "{A97E9E72-D24C-4443-976D-33720D4CE443}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FahrenheitConvertor", "FahrenheitConvertor\FahrenheitConvertor.vcxproj", "{93A355F0-4FE1-4340-BB25-7354EC8E4BDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97E9E72-D24C-4443-976D-33720D4CE443}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A97E9E72-D24C-4443-976D-33720D4CE443}.Debug|Win32.Build.0 = Debug|Win32
+		{A97E9E72-D24C-4443-976D-33720D4CE443}.Release|Win32.ActiveCfg = Release|Win32
+		{A97E9E72-D24C-4443-976D-33720D4CE443}.Release|Win32.Build.0 = Release|Win32
+		{93A355F0-4FE1-4340-BB25-7354EC8E4BDB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{93A355F0-4FE1-4340-BB25-7354EC8E4BDB}.Debug|Win32.Build.0 = Debug|Win32
+		{93A355F0-4FE1-4340-BB25-7354EC8E4BDB}.Release|Win32.ActiveCfg = Release|Win32
+		{93A355F0-4FE1-4340-BB25-7354EC8E4BDB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
