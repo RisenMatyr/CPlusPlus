@@ -19,10 +19,6 @@ int main()
 
 	if (triangle == 1)
 	{
-		std::cout << "Which side are you missing? A, B or C\n";
-		std::cin >> sideMissing;
-		if (sideMissing == "A")
-		{
 			std::cout << "Give a value for side B: " << std::endl;
 			std::cin >> b;
 			std::cout << "Give a value for side C: " << std::endl;
@@ -34,7 +30,14 @@ int main()
 			perimeter = (result + b + c);
 
 			std::cout << "Side A >> " << result << "\nArea >> " << area << "\nPerimeter >> " << perimeter << std::endl;
+	}
+	if (triangle == 2)
+	{
+		std::cout << "Give a value for side B: " << std::endl;
+		std::cin >> b;
+		std::cout << "Give a value for side C: " << std::endl;
+		std::cin >> c;
 
-		}
+
 	}
 }
