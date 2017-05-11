@@ -13,5 +13,5 @@ int r()
 }
 int guessNumber()
 {
-
+	
 }
