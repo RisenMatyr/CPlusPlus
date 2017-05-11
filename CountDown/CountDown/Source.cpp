@@ -9,6 +9,6 @@ int main()
 		Sleep(1000);
 	}
 	system("cls");
-	std::cout << "Boom!";
+	std::cout << "Lift off!";
 	std::cin.get();
 }
